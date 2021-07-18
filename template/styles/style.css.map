@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "style.scss",
+        "brackpoint/_base.scss",
+        "brackpoint/_600up.scss",
+        "brackpoint/_960up.scss",
+        "brackpoint/_1280up.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
